@@ -1,6 +1,6 @@
 # Clona o projeto
-git clone [https://github.com/usuario/repositorio-server-mine.git](https://github.com/DaviGayDaSilva/Servidor-De-Minecraft-Java-Editiok-Para-Termux)
-cd repositorio-server-mine
+git clone https://github.com/DaviGayDaSilva/Servidor-De-Minecraft-Java-Editiok-Para-Termux
+cd Servidor-De-Minecraft-Java-Edition
 
 # Dá permissão pro Gradle wrapper (se necessário)
 chmod +x gradlew
